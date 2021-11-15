@@ -31,12 +31,12 @@ My name is Ken Tseng 👩🏻‍💻 and I'm a data analyst student based in Atl
 
 ## 📈 GitHub Stats
 <a href="https://github.com/Ken52093">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alplky&show_icons=true&theme=vue-dark&line_height=20" alt="Alicia's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=alplky&show_icons=true&theme=vue-dark&line_height=20" alt="Kens github stats"/>
 </a>
 
 <a href="https://github.com/Ken52093">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alplky&layout=compact&theme=vue-dark" />
 </a>
 
-<!-- ## 🎧 Listening To
+<!🎧 Listening To
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1215650061) -->
