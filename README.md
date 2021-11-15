@@ -4,6 +4,7 @@ My name is Ken Tseng 👩🏻‍💻 and I'm a data analyst student based in Atl
 # 📱 Contact
 <a href="mailto:wave0918362269@gmail.con"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/ken-tseng-28a077211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.youtube.com/channel/UCz6VewVKK2TWaadaSBj7SgA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 
 ## 📊 Visualizations
 <a href="https://public.tableau.com/app/profile/ken.tseng5514#!/?newProfile=&activeTab=0"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></img></a>
