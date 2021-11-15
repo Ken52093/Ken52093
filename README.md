@@ -1,7 +1,7 @@
 # Hi there 👋 Glad you stopped by!
 My name is Ken Tseng 👩🏻‍💻 and I'm a data analyst student based in Atlanta, Georgia. I recently graduated from the Data Analytics Boot Camp at the Georgia Tech, and I'm pumped that I made the big leap into the world of data. 
 
-##📱Contact
+# 📱 Contact
 <a href="wave0918362269@gmail.con"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/ken-tseng-28a077211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://twitter.com/alicia_data"><img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
