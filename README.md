@@ -38,5 +38,3 @@ My name is Ken Tseng 👩🏻‍💻 and I'm a data analyst student based in Atl
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alplky&layout=compact&theme=vue-dark" />
 </a>
 
-<!🎧 Listening To
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1215650061) -->
