@@ -2,13 +2,13 @@
 My name is Ken Tseng 👩🏻‍💻 and I'm a data analyst student based in Atlanta, Georgia. I recently graduated from the Data Analytics Boot Camp at the Georgia Tech, and I'm pumped that I made the big leap into the world of data. 
 
 ## 💻 Contact
-<a href="mailto:alicia.pelkey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-<a href="https://www.linkedin.com/in/aliciapelkey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="wave0918362269@gmail.con"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/ken-tseng-28a077211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://twitter.com/alicia_data"><img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 
 
 ## 📊 Visualizations
-<a href="https://public.tableau.com/profile/alicia.pelkey#!/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></img></a>
+<a href="https://public.tableau.com/app/profile/ken.tseng5514#!/?newProfile=&activeTab=0"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></img></a>
 
 ## ⚒️ Tools & Technologies
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
@@ -30,11 +30,11 @@ My name is Ken Tseng 👩🏻‍💻 and I'm a data analyst student based in Atl
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
 
 ## 📈 GitHub Stats
-<a href="https://github.com/alplky">
+<a href="https://github.com/Ken52093">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alplky&show_icons=true&theme=vue-dark&line_height=20" alt="Alicia's github stats"/>
 </a>
 
-<a href="https://github.com/alplky">
+<a href="https://github.com/Ken52093">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alplky&layout=compact&theme=vue-dark" />
 </a>
 
