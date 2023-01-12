@@ -2,7 +2,7 @@
 My name is Ken Tseng 👩🏻‍💻 and I'm a data analyst student based in Atlanta, Georgia. I recently graduated from the Data Analytics Boot Camp at the Georgia Tech, and I'm pumped that I made the big leap into the world of data. 
 
 # 📱 Contact
-<a href="mailto:wave0918362269@gmail.con"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a href="mailto:ktseng520@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/ken-tseng-28a077211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://www.youtube.com/channel/UCz6VewVKK2TWaadaSBj7SgA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 
@@ -35,3 +35,5 @@ My name is Ken Tseng 👩🏻‍💻 and I'm a data analyst student based in Atl
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken52093&layout=compact&theme=vue-dark" />
 </a>
 
+## Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ken52093=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
