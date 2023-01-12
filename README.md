@@ -34,7 +34,3 @@ My name is Ken Tseng 👩🏻‍💻 and I'm a data analyst student based in Atl
 <a href="https://github.com/Ken52093">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken52093&layout=compact&theme=vue-dark" />
 </a>
-
-## Language
-&layout=compact
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Ken52093=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
