@@ -1,5 +1,5 @@
 # Hi there 👋 Glad you stopped by!
-As a data analyst student based in Atlanta, Georgia, I have gained valuable experience and knowledge through my graduation from the Data Analytics Boot Camp at Georgia Tech and my ongoing pursuit of a Google data analysis certificate. I am enthusiastic about the opportunities and challenges that lie ahead in the field of data analysis and look forward to applying my skills and expertise to real-world projects.
+As a data analyst student based in San Francisco, California, I have gained valuable experience and knowledge through my graduation from the Data Analytics Boot Camp at Georgia Tech and my ongoing pursuit of a Google data analysis certificate. I am enthusiastic about the opportunities and challenges that lie ahead in the field of data analysis and look forward to applying my skills and expertise to real-world projects.
 
 # 📱 Contact
 <a href="mailto:ktseng520@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
